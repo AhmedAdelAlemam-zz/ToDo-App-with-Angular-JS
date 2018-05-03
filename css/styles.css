@@ -1,0 +1,28 @@
+body {
+    background-color:#555;
+    text-align: center;
+    margin-top: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;;
+}
+
+.frm {
+    margin: .5em;
+}
+
+.align {
+    margin-left: -2em;
+    margin-top: .8em;
+}
+
+.align li {
+    color: #fff;
+    list-style: none;
+    margin-left: -2em;
+    margin-top: .8em;
+}
+
+.done {
+    text-decoration: line-through;
+    color: #ccc;
+}
